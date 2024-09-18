@@ -1,0 +1,1 @@
+ALTER TABLE book_shop_user ADD age Integer DEFAULT NULL;
